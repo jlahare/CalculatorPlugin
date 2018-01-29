@@ -30,7 +30,7 @@ public class Calculator extends CordovaPlugin
             return true;
         }else if (action.equals("substract")) 
         {
-            this.divide (args, callbackContext);
+            this.substract (args, callbackContext);
             return true;
         }
         
