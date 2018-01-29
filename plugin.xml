@@ -6,7 +6,7 @@
     <name>Calculator</name>
 
     <js-module name="Calculator" src="www/Calculator.js">
-        <clobbers target="cordova.plugins.Calculator" />
+        <clobbers target="Calculator" />
     </js-module>
 
     <platform name="android">
