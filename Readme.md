@@ -19,3 +19,5 @@
 7. in Calculator.js, add different methods you wants your plugin to perform.
 
 8. add defination of all these methods in "Calculator.java" for android and in "Calculator.m" for ios. 
+
+9. make "clobbers" as as single string like "Calculator" or it will not work.
