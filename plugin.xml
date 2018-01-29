@@ -6,7 +6,7 @@
     <name>Calculator</name>
 
     <js-module name="Calculator" src="www/Calculator.js">
-        <clobbers target="Calculator" />
+        <clobbers target="Jayesh" />
     </js-module>
 
     <platform name="android">
